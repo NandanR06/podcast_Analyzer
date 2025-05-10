@@ -1,0 +1,11 @@
+# .gitignore content
+.env
+.env*
+!.env.example
+node_modules/
+uploads/
+summarized/
+*.aws/
+.vscode/
+.DS_Store
+npm-debug.log
