@@ -38,8 +38,15 @@ This is especially helpful for listeners who want to quickly understand long-for
 
 ---
 
+
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 ## 📦 Installation
 
 1. Clone the repository:
 ```bash
 cd podcast-analyzer
+
+
